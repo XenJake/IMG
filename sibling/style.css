@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+:root {
+--text-font: montserrat;
+}
+* {
+font-family: var(--text-font);
+
+}
+* img {
+    width: 150px;
+    border-radius: 5px;
+}
+nav {
+    background-color: #002f93;
+    display: flex;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+
+}
+.card-html{
+    box-shadow: 5px 3px 5px 3px red;
+    border-radius: 5px;
+    width: 450px;
+    height: 250px;
+    margin-bottom: 40px;
+}
+.card-cpp{
+    box-shadow: 5px 3px 5px 3px red;
+    border-radius: 5px;
+    width: 450px;
+    height: 250px;
+    margin-bottom: 40px;
+}
+.card-c{
+    box-shadow: 5px 3px 5px 3px red;
+    border-radius: 5px;
+    width: 450px;
+    height: 250px;
+    margin-bottom: 40px;
+}
+.card-ruby{
+    box-shadow: 5px 3px 5px 3px red;
+    border-radius: 5px;
+    width: 450px;
+    height: 250px;
+    margin-bottom: 40px;
+}
+.card-css{
+    box-shadow: 5px 3px 5px 3px red;
+    border-radius: 5px;
+    width: 450px;
+    height: 250px;
+    margin-bottom: 40px;
+}
+.card-java{
+    box-shadow: 5px 3px 5px 3px red;
+    border-radius: 5px;
+    width: 450px;
+    height: 250px;
+    margin-bottom: 40px;
+}
+.card-py{
+    box-shadow: 5px 3px 5px 3px red;
+    border-radius: 5px;
+    width: 450px;
+    height: 250px;
+    margin-bottom: 40px;
+}
+.card-js{
+    box-shadow: 5px 3px 5px 3px red;
+    border-radius: 5px;
+    width: 450px;
+    height: 250px;
+    margin-bottom: 40px;
+}
+.card-html img {
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+;
+}
+.card-html p {
+    margin-top: 20%;
+    text-align: center;
+}
+.card-c img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+ .card-c p {
+     margin-top: 20%;
+     text-align: center;
+ }
+ .card-cpp img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+ }
+ .card-cpp p {
+     margin-top: 10%;
+     text-align: center;
+ }
+ .card-py img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+ }
+ .card-py p {
+     margin-top: 10%;
+     text-align: center;
+ }
+ .card-ruby img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+ }
+ .card-ruby p {
+     margin-top: 20%;
+     text-align: center;
+ }
+ .card-js img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+ }
+ .card-js p {
+     margin-top: 10%;
+     text-align: center;
+ }
+ .card-java img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+ }
+ .card-java p {
+     margin-top: 20%;
+     text-align: center;
+ }
+ .card-css img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+ }
+ .card-css p {
+     margin-top: 20%;
+     text-align: center;
+ }
+ .second {
+    margin-left: 55%;
+    margin-top: -85%;
+ }
+ h3 {
+    text-align: center;
+ }
+ .first{ 
+    margin-left: 5%;
+
+ }
